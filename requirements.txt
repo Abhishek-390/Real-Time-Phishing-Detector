@@ -1,3 +1,1 @@
-requests==2.26.0
-python-dotenv==0.19.1
-pytest==6.2.5  # Optional, only if you write tests for your project
+pip freeze > requirements.txt
