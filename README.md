@@ -52,6 +52,7 @@ Once everything is set up, run the script:
 python phishing_detector.py
 ```
 You will be prompted to enter a URL to check. The script will return whether the URL is flagged as phishing or legitimate by Google Safe Browsing.
-##Usage
+
+## Usage
 
 The script checks if a URL is flagged as phishing by querying the Google Safe Browsing API. It will print out whether the URL is Phishing or Legitimate based on the result from the API.
