@@ -30,7 +30,7 @@ Install all the necessary dependencies using pip:
 ```bash
 pip install -r requirements.txt
 ```
-###3. Get Google Safe Browsing API Key
+### 3. Get Google Safe Browsing API Key
 
 You’ll need to obtain a Google Safe Browsing API key. Here’s how to get it:
 
@@ -39,13 +39,13 @@ You’ll need to obtain a Google Safe Browsing API key. Here’s how to get it:
 3. Enable the Google Safe Browsing API.
 4. Create an API key for the project.
 
-###4. Set up environment variables
+### 4. Set up environment variables
 
 Create a .env file in the project directory and add your Google Safe Browsing API key:
 ```plaintext
 GOOGLE_SAFE_BROWSING_API_KEY=your_api_key_here
 ```
-###5. Run the script
+### 5. Run the script
 
 Once everything is set up, run the script:
 ```bash
