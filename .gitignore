@@ -1,0 +1,37 @@
+# Python Bytecode files
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# Virtual Environment directories
+venv/
+env/
+*.env/
+
+# Dependency directories (virtualenv, pipenv, etc.)
+.Pipfile
+.Pipfile.lock
+*.egg-info/
+
+# Environment variables file
+.env
+
+# Cache files
+url_cache.json
+
+# IDE or editor files (e.g., VSCode, PyCharm, etc.)
+.vscode/
+.idea/
+
+# MacOS Finder folder attributes
+.DS_Store
+
+# Windows installer files
+Thumbs.db
+ehthumbs.db
+
+# Logs and temp files
+*.log
+*.tmp
+*.swp
