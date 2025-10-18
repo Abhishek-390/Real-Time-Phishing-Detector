@@ -23,3 +23,6 @@ This project is a Python-based tool that checks URLs in real-time to determine w
 ```bash
 git clone https://github.com/yourusername/phish-detector.git
 cd phish-detector
+### 2. Install dependencies
+
+Install all the necessary dependencies using pip:
